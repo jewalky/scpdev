@@ -2,6 +2,10 @@
 
 Experimental pet project Wiki engine compatible with Wikidot
 
+## Notice
+
+**The repository was MOVED. New address: https://github.com/SCPru/scpwiki**
+
 ## Requirements
 
 Note: this is what I tested with, your mileage may differ.
